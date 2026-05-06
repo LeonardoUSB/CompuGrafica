@@ -1,0 +1,9 @@
+[submodule "shaders_01_ci5321"]
+	path = shaders_01_ci5321
+	url = https://github.com/vBlanyer/shaders_01_ci5321.git
+[submodule "shaders_02_ci5321"]
+	path = shaders_02_ci5321
+	url = https://github.com/LeonardoUSB/shaders_02_ci5321.git
+[submodule "shaders_03_ci5321"]
+	path = shaders_03_ci5321
+	url = https://github.com/LeonardoUSB/shaders_03_ci5321.git
