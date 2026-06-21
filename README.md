@@ -40,3 +40,25 @@ Un único ejemplo que muestra cómo aplicar efectos de post‑procesado a la esc
 Se aplica un filtro que incluye Desenfoque (blur)
 
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/6bb2def3-2797-4e05-8980-ff7c57b957ef" />
+
+## Correr el Proyec
+
+1. Clona o descarga el repositorio y accede a la carpeta raíz.
+
+2. Entra al módulo que deseas probar, por ejemplo:
+
+```
+cd modulo1-shaders
+```
+
+3. Instala las dependencias (solo la primera vez):
+
+```
+npm install
+```
+4. Inicia el servidor de desarrollo:
+
+```
+npm run dev
+```
+Abre la URL que aparezca en la terminal (normalmente http://localhost:5173 o similar) en tu navegador.
