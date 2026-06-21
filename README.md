@@ -48,7 +48,7 @@ Se aplica un filtro que incluye Desenfoque (blur)
 2. Entra al módulo que deseas probar, por ejemplo:
 
 ```
-cd modulo1-shaders
+cd shaders_01_ci5321
 ```
 
 3. Instala las dependencias (solo la primera vez):
