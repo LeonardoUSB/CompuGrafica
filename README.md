@@ -41,7 +41,7 @@ Se aplica un filtro que incluye Desenfoque (blur)
 
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/6bb2def3-2797-4e05-8980-ff7c57b957ef" />
 
-## Correr el Proyec
+## Correr el Proyecto
 
 1. Clona o descarga el repositorio y accede a la carpeta raíz.
 
