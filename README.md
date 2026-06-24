@@ -24,13 +24,14 @@ Aplicación de sombreado tipo “cel shading” sobre una superficie. Los colore
 Dos ejemplos que explotan THREE.Points y THREE.BufferGeometry para simular comportamientos dinámicos con miles de partículas.
 
 ### Rasengan (1 millón de partículas)
-Simulación de una columna de humo que se eleva y se dispersa. Cada partícula tiene posición, velocidad, tamaño y opacidad variables, generando un efecto realista.
+
+Representación del famoso jutsu del anime Naruto. Un billón (1 000 000) de partículas giratorias que forman una esfera compacta con un núcleo brillante. El alto rendimiento se logra mediante el uso de BufferAttribute y actualizaciones en el bucle de animación con operaciones eficientes.
 
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/345be6e4-f562-43d4-afcb-bf1abef648dc" />
 
 ### Humo
 
-Representación del famoso jutsu del anime Naruto. Un billón (1 000 000) de partículas giratorias que forman una esfera compacta con un núcleo brillante. El alto rendimiento se logra mediante el uso de BufferAttribute y actualizaciones en el bucle de animación con operaciones eficientes.
+Simulación de una columna de humo que se eleva y se dispersa. Cada partícula tiene posición, velocidad, tamaño y opacidad variables, generando un efecto realista.
 
 <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/3900ff8b-991b-4850-9bfe-7f0e047df64c" />
 
